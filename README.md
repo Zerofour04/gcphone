@@ -1,4 +1,4 @@
-# 📱GCPHONE
+# 📱GCPHONE-Saltychat
 
 ## ⭐Functions
 - Contact list
@@ -27,9 +27,12 @@ To put the gcphone to work on your server you must follow these steps
 4. If once the gcphone is inserted, it does not load the images, try to delete the cache of the server and your FiveM and it will be ready for operation
 
 ## 🧱Requirements
-Official website esx_addons_gcphone -> https://github.com/N3MTV/gcphone/tree/master/resources/esx_addons_gcphone
-Official website new_banking -> https://github.com/NewWayRP/new_banking
+- [SaltyChat](https://github.com/v10networkscom/saltychat-fivem)
+- Official website esx_addons_gcphone -> https://github.com/N3MTV/gcphone/tree/-master/resources/esx_addons_gcphone
+- Official website new_banking -> https://github.com/NewWayRP/new_banking
 Credits
+
+
 
 ElBichop (Owner gcphone v3) https://www.linkedin.com/in/manuel-jim%C3%A9nez-l%C3%B3pez-205420158/
 
