@@ -13,7 +13,7 @@ files {
 
 	'html/static/config/config.json',
 	
-	-- Coque
+	-- smartphone case
 	'html/static/img/coque/blue.png',
 	'html/static/img/coque/s8.png',
 	'html/static/img/coque/red.png',
