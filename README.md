@@ -18,21 +18,19 @@
 ## 📋Instructions for use
 To put the gcphone to work on your server you must follow these steps
 
-1. Copy all the files from the resources folder and add them to the folder called gcphone on your server
-
-2. For the bank application to work, you need the script on your NewBanking server, since it uses this script
-
-3. In order to make use of sending messages to public services, you must have the following script on your server and configure it for operation
-
-4. If once the gcphone is inserted, it does not load the images, try to delete the cache of the server and your FiveM and it will be ready for operation
+1. Put the `[GCPHONE]` in the `/resource` folder and 
+2. Import the SQLs
+3. Start in the `server.cfg`:
+```
+start esx_addons_gcphone
+start gcphone
+```
 
 ## 🧱Requirements
 - [SaltyChat](https://github.com/v10networkscom/saltychat-fivem)
 - Official website esx_addons_gcphone -> https://github.com/N3MTV/gcphone/tree/-master/resources/esx_addons_gcphone
 - Official website new_banking -> https://github.com/NewWayRP/new_banking
 Credits
-
-
 
 ElBichop (Owner gcphone v3) https://www.linkedin.com/in/manuel-jim%C3%A9nez-l%C3%B3pez-205420158/
 
@@ -42,7 +40,6 @@ Original GCPhone by Gannon https://github.com/N3MTV/gcphone
 
 ## 🖼️Pictures
 ![image](https://user-images.githubusercontent.com/33089217/115770796-6ee36c80-a3ad-11eb-93ee-e1329c6deb2d.png)
-
 ![image](https://user-images.githubusercontent.com/33089217/115770764-625f1400-a3ad-11eb-82db-87a3607a0d7a.png)
 ![image](https://user-images.githubusercontent.com/33089217/115770807-71de5d00-a3ad-11eb-868b-2fd7b4170682.png)
 ![image](https://user-images.githubusercontent.com/33089217/115770826-79056b00-a3ad-11eb-88d3-1f9ac2fb42f5.png)
